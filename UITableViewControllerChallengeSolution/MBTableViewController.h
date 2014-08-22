@@ -1,5 +1,5 @@
 //
-//  MBViewController.h
+//  MBTableViewController.h
 //  UITableViewControllerChallengeSolution
 //
 //  Created by Maxime Borreda on 8/22/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MBViewController : UIViewController
+@interface MBTableViewController : UITableViewController
 
 @end
